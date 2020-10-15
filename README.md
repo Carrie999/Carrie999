@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
 
 
 - 🔭 曾经是 UI 设计师，学过 php pyhon
