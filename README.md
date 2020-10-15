@@ -9,4 +9,4 @@
 
 
 
-<img align="right" src="https://github-readme-stats.cong.moe/api/top-langs/?username=Carrie999&hide=css" />
+<img align="left" src="https://github-readme-stats.cong.moe/api/top-langs/?username=Carrie999&hide=css" />
