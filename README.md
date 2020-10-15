@@ -7,3 +7,6 @@
 - 🤔 现在在学习 https://github.com/egoist 的代码
 - ⚡  现在的目标是代码提高，绘画提高，学习日语和英语
 
+
+
+<img align="right" src="https://github-readme-stats.cong.moe/api/top-langs/?username=Carrie999&hide=css" />
