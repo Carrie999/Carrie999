@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Carrie999&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.cong.moe/api/top-langs/?username=Carrie999&hide=css" />
 
 
 - 🔭 曾经是 UI 设计师，学过 php pyhon
@@ -9,4 +9,3 @@
 
 
 
-<img align="left" src="https://github-readme-stats.cong.moe/api/top-langs/?username=Carrie999&hide=css" />
