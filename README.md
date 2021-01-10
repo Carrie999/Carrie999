@@ -2,8 +2,6 @@
 - 🔭 曾经是 UI 设计师，学过 php pyhon
 - 🌱 现在是一名前端工程师
 - 👯 偶尔画一画日漫场景画
-- 🤔 现在的目标是代码提高，绘画提高，学习日语和英语
-- ⚡  业务变职业搞基金股票中
-
+- ⚡  业余变职业搞基金股票中 telegrame：https://t.me/joinchat/HcjtOVpHysop3CgK
 
 
