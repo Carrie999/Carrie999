@@ -1,4 +1,4 @@
-- ⚡  关于我： https://bento.me/linger-studio
+- ⚡  关于我： https://bento.me/lingerstudio
 
 
 
